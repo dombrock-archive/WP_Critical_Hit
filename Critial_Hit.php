@@ -1,15 +1,12 @@
 <?php
 /**
  * Plugin Name: Hit Counter
- * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+ * Plugin URI: https://github.com/matdombrock/WP_Critical_Hit
  * Description: Counts the hits on the site.
- * Version: The plugin's version number. Example: 1.0.0
+ * Version: 0.5
  * Author: Mathieu Dombrock
  * Author URI: http://myceliumzero.com
- * Text Domain: Optional. Plugin's text domain for localization. Example: mytextdomain
- * Domain Path: Optional. Plugin's relative directory path to .mo files. Example: /locale/
- * Network: Optional. Whether the plugin can only be activated network wide. Example: true
- * License: A short license name. Example: GPL2
+ * License: GPL2
  */
 
 //DB STUFF
