@@ -3,4 +3,4 @@ A WordPress Plugin that tracks your sites views and displays them in the WordPre
 
 Package and install to any WordPress Installation.
 
-Great starting point to build your own plugin.
+Very Minimal, so it makes a great starting point to build your own plugin.
